@@ -1,0 +1,4 @@
+To run you will need to install poetry and run poetry install to start
+
+Use this if you wish to use selenium to query the leaderboard
+sudo apt-get install chromium-chromedriver
